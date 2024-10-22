@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*CSS Document*/
+p{
+	color:black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia,, "serif";
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 18px;
+	width: 1400px;
+	background-color: palevioletred;
+	opacity: 0.9;
+	padding: 20px
+}
+.paragraf2 {color: darkcyan; background-color: rgba(255, 255, 255, 0.5) }
+h1, h2{
+		font-family:Gotham, "Helvetica Neue", Helvetica Arial, "sans serif";
+		color: mistyrose;
+}
+body{
+	background-color: lightpink;
+}
